@@ -469,4 +469,7 @@ form .send-btn:hover {
   .about {
     margin: 0%;
   }
+  .row {
+    max-width: 95%;
+  }
 }
